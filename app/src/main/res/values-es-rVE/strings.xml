@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ordenar Entradas</string>
+    <string name="nametest">Nombre</string>
+    <string name="countTickets">Cantidad de Entradas</string>
+    <string name="sort">Ordenar</string>
+    <string name="emailUser">Correo Electronico</string>
+    <string name="newSort">Nueva Entrada</string>
+
+</resources>

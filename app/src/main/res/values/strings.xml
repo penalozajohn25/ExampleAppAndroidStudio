@@ -1,0 +1,8 @@
+<resources>
+    <string name="nametest">Name</string>
+    <string name="countTickets">Count Tickets</string>
+    <string name="app_name">Sort Tickets</string>
+    <string name="sort">Sort</string>
+    <string name="emailUser">Email</string>
+    <string name="newSort">New Ticket</string>
+</resources>
